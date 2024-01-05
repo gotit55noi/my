@@ -1,0 +1,59 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Page 2 - All About Him</title>
+  <style>
+    /* Your CSS styles go here */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #ffd1dc; /* Pastel pink background */
+      margin: 0;
+      padding: 0;
+      /* Add more styles as you want */
+    }
+    /* Additional styles for the list items */
+    ul {
+      list-style-type: none;
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 8px;
+      /* Add more specific styles for the list items */
+    }
+    /* Customize more styles here */
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>All About Him</h1>
+    <!-- Any other header content goes here -->
+  </header>
+
+  <main>
+    <section>
+      <h2>What I Love About Him</h2>
+      <ul>
+        <li>His Eyes</li>
+        <li>His Laugh</li>
+        <li>The Way He Talks</li>
+        <li>His Smile</li>
+        <li>The Way He Makes Me Feel</li>
+        <li>How Amazing He Is</li>
+        <!-- Add more specific details here -->
+      </ul>
+    </section>
+    <img src="link_to_rainbow_sticker_image" alt="Rainbow Sticker" style="width: 100px; height: auto;">
+    <!-- Add more cute stickers here -->
+  </main>
+
+  <footer>
+    <p>&copy; 2024 YourName</p>
+    <!-- Any other footer content goes here -->
+  </footer>
+
+</body>
+</html>

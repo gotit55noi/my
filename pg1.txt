@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Homepage</title>
+  <style>
+    /* Your CSS styles go here */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e0e0e0; /* Light pink background */
+      margin: 0;
+      padding: 0;
+      /* Add more styles as you want */
+    }
+    /* Customize more styles here */
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome!</h1>
+    <!-- open this qt -->
+  </header>
+
+  <main>
+    <section>
+      <button onclick="window.location.href='page2.html'">Open</button>
+      <!-- Add more content or buttons here if needed -->
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 YourName</p>
+    <!-- Any other footer content goes here -->
+  </footer>
+
+</body>
+</html>

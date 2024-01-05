@@ -1,0 +1,39 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Page 3 - My Feelings</title>
+  <style>
+    /* Your CSS styles go here */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #c9e6ff; /* Light blue background */
+      margin: 0;
+      padding: 0;
+      /* Add more styles as you want */
+    }
+    /* Customize more styles here */
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>My Feelings</h1>
+    <!-- Any other header content goes here -->
+  </header>
+
+  <main>
+    <section>
+      <p>Hey, you know, every time I see your eyes, I find a universe of kindness and warmth. Your laugh is my favorite song, and the way you talk, it's like every word carries a bit of magic. Your smile, it's my daily sunshine. But beyond all that, it's how you make me feel - so special, cared for, and loved, just by being yourself. You're an amazing person, and being around you feels like home. ❤️</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 naira </p>
+    <!-- Any other footer content goes here -->
+  </footer>
+
+</body>
+</html>
